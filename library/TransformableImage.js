@@ -3,7 +3,7 @@
 import React, { Component, PropTypes } from 'react';
 import { Image } from 'react-native';
 
-import ViewTransformer from 'react-native-view-transformer';
+import ViewTransformer from '@ysocorp/react-native-view-transformer';
 
 let DEV = false;
 
